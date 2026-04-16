@@ -210,11 +210,11 @@ http://127.0.0.1:5000/data?lat=11.0168&lon=76.9558
 
 ### 🔹 Serial Monitor Output
 
-(Add image here)
+![Serial](setup1.jpeg)
 
 ### 🔹 SMS Alert Example
 
-(Add image here)
+![SMS](setup3.jpeg)
 
 ---
 
