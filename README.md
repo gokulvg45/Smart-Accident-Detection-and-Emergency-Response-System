@@ -203,9 +203,10 @@ http://127.0.0.1:5000/data?lat=11.0168&lon=76.9558
 
 ## 📸 Project Demo (Add Images)
 
-### 🔹 Hardware Setup
+## 📸 Hardware Setup
 
-(Add image here)
+![Hardware](setup2.jpg)
+
 
 ### 🔹 Serial Monitor Output
 
